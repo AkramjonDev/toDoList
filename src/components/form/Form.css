@@ -1,0 +1,11 @@
+.input-search{
+    display: flex;
+    width: 595px;
+    height: 38px;
+    padding: 8px 16px;
+    align-items: center;
+    font-weight: 500;
+    border-radius: 5px;
+    border: 1px solid var(--purple, #6C63FF);
+    outline: none;
+}
